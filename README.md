@@ -13,3 +13,12 @@ Also an optional stereo output on pin 7 of the a/v jack (stereo sid, FPGA SID et
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/Rev.%200/pictures/2823_-_side_view_with_cables.JPG" width="300" alt="C64 A/V-Adaptor (side view with cables)">
 
 There is another source of the Lumberg DIN connector found for north America: https://www.alliedelec.com/product/lumberg/sv-80/70151558/ 
+
+#Case
+I have added a 3D printable case for this adaptor.
+
+<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV%20adaptor%20case%20explosion.png" width="300" alt="C64 A/V-Adaptor Case">
+
+<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/2864_-_Adaptor_with_C64_front.JPG" width="300" alt="C64 A/V-Adaptor Case">
+
+
