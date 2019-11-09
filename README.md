@@ -21,4 +21,6 @@ I have added a 3D printable case for this adaptor.
 
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/2864_-_Adaptor_with_C64_front.JPG" width="300" alt="C64 A/V-Adaptor Case">
 
-
+<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case%20v15.png" width="300" alt="C64 A/V-Adaptor Case">
+<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_5pin%20v5.png" width="300" alt="C64 5-pin A/V-Adaptor Case">
+<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_VIC-20%20v6.png" width="300" alt="VIC-20 A/V-Adaptor Case">
