@@ -25,5 +25,10 @@ I have added a 3D printable case for this adaptor.
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_5pin%20v5.png" width="300" alt="C64 5-pin A/V-Adaptor Case">
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_VIC-20%20v6.png" width="300" alt="VIC-20 A/V-Adaptor Case">
 
-Revision 1:
-Rev. 1 is exactöly the same as Rev. 0, except the spacer, that had to be cut off manually was removed to myke this board a little more mass production friendly. All masures and positions stayed the same. The BOM has not been changed, either (except the PCB Rev. No.).
+# Revision 1
+Rev. 1 is exactly the same as Rev. 0, except the spacer, that had to be cut off manually was removed to myke this board a little more mass production friendly. All masures and positions stayed the same. The BOM has not been changed, either (except the PCB Rev. No.).
+
+# Prices
+I have added a price calculation with prices of May 2020. The  prices per item were retrieved from reichelt.de. They might differ from distributor to distributor (the Lumberg connectors are more expensive in North America) and they don't include any shipping fees.
+
+A standard A/V Adaptor is worth 12,75€ plus the 3D printed case and label.
