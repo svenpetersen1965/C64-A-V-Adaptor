@@ -32,3 +32,6 @@ Rev. 1 is exactly the same as Rev. 0, except the spacer, that had to be cut off 
 I have added a price calculation with prices of May 2020. The  prices per item were retrieved from reichelt.de. They might differ from distributor to distributor (the Lumberg connectors are more expensive in North America) and they don't include any shipping fees.
 
 A standard A/V Adaptor is worth 12,75€ plus the 3D printed case and label.
+
+# VIC-20
+This AV-Adaptor is blocking the Expansion Port! I have noticed it, after trying cartridges. A dedicated model is in the making. (03.06.2021)
