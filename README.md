@@ -36,6 +36,11 @@ I have added a price calculation with prices of May 2020. The  prices per item w
 
 A standard A/V Adaptor is worth 12,75€ plus the 3D printed case and label.
 
-# VIC-20
+# VIC-20 & C128
 
-This AV-Adaptor is blocking the Expansion Port! I have noticed it, after trying cartridges. A dedicated model is in the making. (03.06.2021)
+This AV-Adaptor is blocking the Expansion Port of the VIC-20 (the 5 pin version) and the IEC bus of the C128! There are dedicated versions for each.
+
+* <a href="https://github.com/svenpetersen1965/C128-A-V-Adapter">C128 A/V-Adapter</a>
+* <a href="https://github.com/svenpetersen1965/VIC-20_AV-Adapter">VIC-20 A/V-Adapter</a>
+
+
