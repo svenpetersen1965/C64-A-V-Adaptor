@@ -14,7 +14,7 @@ Also an optional stereo output on pin 7 of the a/v jack (stereo sid, FPGA SID et
 
 There is another source of the Lumberg DIN connector found for north America: https://www.alliedelec.com/product/lumberg/sv-80/70151558/ 
 
-#Case
+# Case
 
 I have added a 3D printable case for this adaptor.
 
@@ -24,17 +24,21 @@ I have added a 3D printable case for this adaptor.
 
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case%20v15.png" width="300" alt="C64 A/V-Adaptor Case">
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_5pin%20v5.png" width="300" alt="C64 5-pin A/V-Adaptor Case">
-<img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case_VIC-20%20v6.png" width="300" alt="VIC-20 A/V-Adaptor Case">
 
 # Revision 1
 
 Rev. 1 is exactly the same as Rev. 0, except the spacer, that had to be cut off manually was removed to myke this board a little more mass production friendly. All masures and positions stayed the same. The BOM has not been changed, either (except the PCB Rev. No.).
 
+# Revision 2
+In Rev. 2, the obsolete BTOR1 RCA jacks are replaced with a model from CUI Inc. Also, there is an alternative of keystone.
+
 # Prices
 
 I have added a price calculation with prices of May 2020. The  prices per item were retrieved from reichelt.de. They might differ from distributor to distributor (the Lumberg connectors are more expensive in North America) and they don't include any shipping fees.
 
-A standard A/V Adaptor is worth 12,75€ plus the 3D printed case and label.
+A standard A/V Adaptor is worth 12,75€ (May 2020) plus the 3D printed case and label.
+
+In September 2022, a new price had to be calculated. The BOM Value is now (Sepüt. 2nd, 2022) 16.63€. 
 
 # VIC-20 & C128
 
