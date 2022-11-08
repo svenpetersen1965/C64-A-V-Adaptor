@@ -25,11 +25,10 @@ I have added a 3D printable case for this adaptor.
 <img src="https://github.com/svenpetersen1965/C64-A-V-Adaptor/blob/master/case/Rev.%200/pictures/AV-Adaptor_case%20v15.png" width="300" alt="C64 A/V-Adaptor Case">
 
 # Revision 1
-
 Rev. 1 is exactly the same as Rev. 0, except the spacer, that had to be cut off manually was removed to myke this board a little more mass production friendly. All masures and positions stayed the same. The BOM has not been changed, either (except the PCB Rev. No.).
 
 # Revision 2
-In Rev. 2, the obsolete BTOR1 RCA jacks are replaced with a model from CUI Inc. Also, there is an alternative of keystone.
+In Rev. 2, the obsolete Lumberg BTOR1 RCA jacks are replaced with a model from CUI Inc. Also, there is an alternative from Keystone. Check ou the BOM.
 
 # Prices
 
